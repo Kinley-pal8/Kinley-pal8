@@ -70,6 +70,7 @@
 
 # `>_` 𝚌𝚘𝚗𝚗𝚎𝚌𝚝 <img align='right' src='https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTU1NWJnenc3engwdGlma2ttMG1oemR5azE0Nnl1N3c1eWtjeDM0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RSPAUsEy1azRu/giphy.gif' width='130'>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kinley-palden-a4995440a)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kinleypal224@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/slimreaper_kid8)
 
